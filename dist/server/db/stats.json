@@ -1,0 +1,62 @@
+[
+    {
+        "time": "15 May 2020, 12:39:59 am",
+        "prod_name": "Keyboard",
+        "action": "add"
+    },
+    {
+        "time": "15 May 2020, 12:40:00 am",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "15 May 2020, 12:40:01 am",
+        "prod_name": "Ноутбук",
+        "action": "add"
+    },
+    {
+        "time": "15 May 2020, 12:40:03 am",
+        "prod_name": "Keyboard",
+        "action": "change"
+    },
+    {
+        "time": "15 May 2020, 12:40:03 am",
+        "prod_name": "Gamepad",
+        "action": "change"
+    },
+    {
+        "time": "15 May 2020, 12:40:04 am",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "15 May 2020, 12:40:11 am",
+        "prod_name": "Keyboard",
+        "action": "change"
+    },
+    {
+        "time": "15 May 2020, 12:40:11 am",
+        "prod_name": "Keyboard",
+        "action": "remove"
+    },
+    {
+        "time": "15 May 2020, 12:40:12 am",
+        "prod_name": "Gamepad",
+        "action": "change"
+    },
+    {
+        "time": "15 May 2020, 12:40:12 am",
+        "prod_name": "Gamepad",
+        "action": "remove"
+    },
+    {
+        "time": "15 May 2020, 12:40:12 am",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "15 May 2020, 12:40:13 am",
+        "prod_name": "Ноутбук",
+        "action": "remove"
+    }
+]
